@@ -21,5 +21,11 @@ pipeline{
          echo 'Stage4'
           }         
       }
+      stage('Name of stage')
+      {
+      steps{
+      	echo "whatever you want the stage to do"
+      }
+
     }
 }
