@@ -26,6 +26,7 @@ pipeline{
       steps{
       	echo "whatever you want the stage to do"
       }
+      }
 
     }
 }
